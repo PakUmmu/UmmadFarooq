@@ -1,7 +1,7 @@
 👋 Hi, I'm Ummad Farooq
 Welcome to my GitHub profile! I am an aspiring IT professional currently pursuing a 2-Year Computer Programming Diploma at Durham College. My goal is to leverage my technical skills and passion for problem-solving to contribute to innovative projects that make a difference.
 
-🚀 About Me
+#🚀 About Me
 🔭 Currently studying Computer Programming with a focus on object-oriented programming, web development, and database management.
 🌱 Passionate about technology, programming, and developing solutions that enhance efficiency.
 🎯 Future goal: Build a career in IT and continue learning cutting-edge technologies.
